@@ -7,7 +7,6 @@
 <h3>Languages and Tools: </h3>
 <br>
 
-<code>
 <a href="https://www.arduino.cc/">
     <img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
 </a>
@@ -56,7 +55,6 @@
 <a href="https://code.visualstudio.com"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width = "40"/> 
 </a>
-</code>
 <br><br>
 
 <img src ="https://github-readme-stats.vercel.app/api?username=natannobre&show_icons=true&title_color=2244ff&icon_color=2244ff&text_color=9f9f9f&bg_color=151515" />
