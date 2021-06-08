@@ -37,6 +37,19 @@
 <a href="https://www.codecademy.com/learn/learn-html"> 
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width = "40"/>
 </a>
+
+<a href="https://www.markdownguide.org/"> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" width = "45"/> 
+</a>
+
+<a href="https://www.markdownguide.org/"> 
+<img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width = "45"/> 
+</a>
+
+<a href="https://www.markdownguide.org/"> 
+    <img src="https://freepikpsd.com/media/2019/10/bootstrap-logo-png-1-Transparent-Images-Free.png" width = "40"/> 
+</a>s
+
 <a href="https://www.postgresql.org"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/> 
 </a>
