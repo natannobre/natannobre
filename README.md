@@ -76,7 +76,7 @@
 <br><br>
 
 <h3>Social Media:</h3>
-<br><br>
+<br>
 
  <a href="https://mail.google.com/mail/u/0/?fs=1&to=natannobre37@gmail.com&tf=cm">
     <img src="https://img.shields.io/badge/gmail -%23E4402F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
