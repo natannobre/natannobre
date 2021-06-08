@@ -25,9 +25,15 @@
 <a href="https://www.java.com/pt-BR/">
      <img    src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "40"/> 
 </a>
+
+<a href="https://pypi.org/project/PyQt5/">
+     <img src="https://miro.medium.com/max/4000/1*Rbb2OgXa8osy9NkaLE3d_g.png" width = "40"/>
+</a>
+
 <a href="https://www.python.org/">
      <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width = "40"/>
 </a>
+
 <a href="https://git-scm.com">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width = "40"/> 
 </a>
