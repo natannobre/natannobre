@@ -44,18 +44,22 @@
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width = "40"/>
 </a>
 
-<a href="https://www.markdownguide.org/"> 
+<a href="https://www.w3schools.com/css/"> 
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" width = "45"/> 
 </a>
 
-<a href="https://www.markdownguide.org/"> 
+<a href="https://www.learn-js.org/"> 
 <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width = "45"/> 
 </a>
 
-<a href="https://www.markdownguide.org/"> 
+<a href="https://getbootstrap.com/"> 
     <img src="https://freepikpsd.com/media/2019/10/bootstrap-logo-png-1-Transparent-Images-Free.png" width = "40"/> 
 </a>
 
+<a href="https://handlebarsjs.com/"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/handlebars-1-285290.png" width = "40"/> 
+</a>
+    
 <a href="https://www.postgresql.org"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/> 
 </a>
@@ -70,6 +74,10 @@
 <a href="https://www.overleaf.com/project"> 
     <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width = "45"/> 
 </a>
+    
+<a href="https://www.markdownguide.org/"> 
+    <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" width = "50"/> 
+</a>
 
 <a href="https://code.visualstudio.com"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width = "40"/> 
@@ -78,18 +86,18 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=natannobre&show_icons=true&title_color=2244ff&icon_color=2244ff&text_color=9f9f9f&bg_color=151515" />
 <br><br>
-<img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=natannobre&layout=compact&show_icons=true&title_color=2244ff&icon_color=25cce9&text_color=9f9f9f&bg_color=151515" />
+<img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=natannobre&layout=compact&show_icons=true&title_color=2244ff&icon_color=25cce9&text_color=9f9f9f&bg_color=151515&langs_count=16" />
 <br><br>
 
 <h3>Social Media:</h3>
 <br>
 
  <a href="https://mail.google.com/mail/u/0/?fs=1&to=natannobre37@gmail.com&tf=cm">
-    <img src="https://img.shields.io/badge/gmail -%23E4402F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
-</a>&nbsp;&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width = "50"/>
+ </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/natan-nobre-chaves-96a847212">
-    <img src="https://img.shields.io/badge/likedin -%2300899F.svg?&style=for-the-badge&logo=likedin&logoColor=white" />        
+    <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" width = "50"/>        
 </a>&nbsp;&nbsp;
 <br><hr>
 </div>
