@@ -31,7 +31,15 @@
 </a>
 
 <a href="https://www.python.org/">
-     <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width = "40"/>
+    <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width = "40"/>
+</a>
+
+<a href="https://www.ruby-lang.org/pt/documentation/">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" width = "40"/>
+</a>
+
+<a href="https://guides.rubyonrails.org/">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/rails_original_wordmark_logo_icon_146378.png" width = "40"/>
 </a>
 
 <a href="https://git-scm.com">
@@ -63,6 +71,11 @@
 <a href="https://www.postgresql.org"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/> 
 </a>
+    
+<a href="https://docs.docker.com/"> 
+    <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" width = "40"/> 
+</a>
+    
 <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/"> 
     <img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" width = "50"/> 
 </a>
