@@ -64,6 +64,10 @@
     <img src="https://freepikpsd.com/media/2019/10/bootstrap-logo-png-1-Transparent-Images-Free.png" width = "40"/> 
 </a>
 
+<a href="https://materializecss.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40"                  height="40"/> 
+</a> 
+
 <a href="https://handlebarsjs.com/"> 
     <img src="https://cdn.iconscout.com/icon/free/png-512/handlebars-1-285290.png" width = "40"/> 
 </a>
