@@ -72,8 +72,12 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/> 
 </a>
     
+<a href="https://heroku.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+</a>
+    
 <a href="https://docs.docker.com/"> 
-    <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" width = "40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
     
 <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/"> 
