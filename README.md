@@ -61,7 +61,7 @@
 </a>
 
 <a href="https://getbootstrap.com/"> 
-    <img src="https://freepikpsd.com/media/2019/10/bootstrap-logo-png-1-Transparent-Images-Free.png" width = "40"/> 
+    <img src="http://micreiros.com/wp-content/uploads/bootstrap-logo.png" width = "50"/> 
 </a>
 
 <a href="https://materializecss.com/" target="_blank"> 
