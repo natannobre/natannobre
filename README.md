@@ -105,7 +105,7 @@
 </a>
 <br><br>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=natannobre&show_icons=true&title_color=2244ff&icon_color=2244ff&text_color=9f9f9f&bg_color=151515" />
+<img src ="https://github-readme-stats.vercel.app/api?username=natannobre&show_icons=true&include_all_commits=true&title_color=2244ff&icon_color=2244ff&text_color=9f9f9f&bg_color=151515" />
 <br><br>
 <img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=natannobre&layout=compact&show_icons=true&title_color=2244ff&icon_color=25cce9&text_color=9f9f9f&bg_color=151515&langs_count=16" />
 <br><br>
