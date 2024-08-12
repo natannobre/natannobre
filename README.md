@@ -88,10 +88,6 @@
     <img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" width = "50"/> 
 </a>
 
-<a href="https://www.asm-smt.com/en/"> 
-    <img src="https://images-ext-1.discordapp.net/external/H7-IGnW58MToNVzgqtQhajuIoe3TGfd-mFwAPoioaxk/http/www.byteanalysis.com.br/assets/images/25a85d9e5057430d82273a3c75e73014.png?width=680&height=676" width = "45"/> 
-</a>
-
 <a href="https://www.overleaf.com/project"> 
     <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width = "45"/> 
 </a>
@@ -105,9 +101,7 @@
 </a>
 <br><br>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=natannobre&show_icons=true&include_all_commits=true&title_color=2244ff&icon_color=2244ff&text_color=9f9f9f&bg_color=151515" />
-<br><br>
-<img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=natannobre&layout=compact&show_icons=true&title_color=2244ff&icon_color=25cce9&text_color=9f9f9f&bg_color=151515&langs_count=16" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=natannobre&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun&hide_current_streak=true" alt="GitHub Streak" /></a>
 <br><br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=natannobre&theme=darkhub&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,CC,C&row=2&column=3)
